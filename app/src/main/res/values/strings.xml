@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppSemNome</string>
+    <string name="contacts">contatos</string>
+    <string name="logout">logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bottom">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="resend_email">Resend E-mail</string>
+    <string name="choose_pic">choose picture</string>
+    <string name="chats">Conversas</string>
+</resources>
