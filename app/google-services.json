@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:349861344587:android:47109663a8f039bfdba4ce",
         "android_client_info": {
-          "package_name": "com.example.authenticatorapp"
+          "package_name": "com.example.Astergaze"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "349861344587-k37i7l18p766koqhmusbk5dfb8o229el.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.authenticatorapp",
+            "package_name": "com.example.Astergaze",
             "certificate_hash": "31fe533701212e7b52e8799ca83f5080d9cfe45d"
           }
         },

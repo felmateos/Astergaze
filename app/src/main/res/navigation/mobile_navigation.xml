@@ -7,19 +7,19 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.example.authenticatorapp.ui.chats.ChatsFragment"
+        android:name="com.example.Astergaze.ui.chats.ChatsFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_chats" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.example.authenticatorapp.ui.messages.MessagesFragment"
+        android:name="com.example.Astergaze.ui.messages.MessagesFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_messages" />
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.example.authenticatorapp.ui.notifications.NotificationsFragment"
+        android:name="com.example.Astergaze.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
 </navigation>
