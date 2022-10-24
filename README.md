@@ -58,9 +58,6 @@
   <ol>
     <li>
       <a href="#sobre-o-projeto">Sobre o projeto</a>
-      <ul>
-        <li><a href="#feito-com">Feito com</a></li>
-      </ul>
     </li>
     <li>
       <a href="#iniciando">Iniciando</a>
@@ -82,21 +79,6 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Feito com
-
-* [![Gradle][Gradle.js]][Gradle-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,8 +133,6 @@ Project Link: [https://github.com/felmateos/astergaze](https://github.com/felmat
 [issues-url]: https://github.com/felmateos/astergaze/issues
 [license-shield]: https://img.shields.io/github/license/felmateos/astergaze.svg?style=for-the-badge
 [license-url]: https://github.com/felmateos/astergaze/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=259
 [linkedin-url]: https://linkedin.com/in/felmateos
 [product-screenshot]: images/screenshot.png
-[Gradle]: https://img.shields.io/badge/gradle-plugin-portal/v/:pluginId?versionPrefix=0.10&versionSuffix=.1
-[Gradle-url]: https://gradle.org/
