@@ -76,10 +76,14 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-[![Product login Screen Shot][login-screenshot]](https://example.com)
-[![Product signin Screen Shot][signin-screenshot]](https://example.com)
-[![Product contacts Screen Shot][contacts-screenshot]](https://example.com)
-[![Product chat Screen Shot][chat-screenshot]](https://example.com)
+<div style="float: left">
+
+<img src="app/src/main/res/screenshots/Login.jpg" height="420px">
+<img src="app/src/main/res/screenshots/Signin.jpg" height="420px">
+<img src="app/src/main/res/screenshots/Contacts.jpg" height="420px">
+<img src="app/src/main/res/screenshots/Chat.jpg" height="420px">
+
+</div>
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
