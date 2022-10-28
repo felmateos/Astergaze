@@ -78,10 +78,10 @@
 
 <div style="float: left">
 
-<img src="app/src/main/res/screenshots/Login.jpg" height="420px">
-<img src="app/src/main/res/screenshots/Signin.jpg" height="420px">
-<img src="app/src/main/res/screenshots/Contacts.jpg" height="420px">
-<img src="app/src/main/res/screenshots/Chat.jpg" height="420px">
+<img src="app/src/main/res/screenshots/Login.jpg" height=360px">
+<img src="app/src/main/res/screenshots/Signin.jpg" height="360px">
+<img src="app/src/main/res/screenshots/Contacts.jpg" height="360px">
+<img src="app/src/main/res/screenshots/Chat.jpg" height="360px">
 
 </div>
 
